@@ -1,0 +1,12 @@
+module.exports = {
+	svelteSortOrder: 'options-scripts-markup-styles',
+	svelteStrictMode: false,
+	svelteBracketNewLine: true,
+	svelteAllowShorthand: false,
+	plugins: ['prettier-plugin-svelte'],
+	jsxBracketSameLine: false,
+	tabWidth: 4,
+	useTabs: true,
+	singleQuote: true,
+	trailingComma: 'none'
+};
