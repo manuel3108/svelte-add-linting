@@ -1,4 +1,4 @@
-<h1 align="center">✅ Add Bulma to Svelte</h1>
+<h1 align="center">✅ Add Eslint and Prettier to Svelte</h1>
 
 ## ❓ What is this?
 This is an **experimental** command to add liniting to your SvelteKit project.
