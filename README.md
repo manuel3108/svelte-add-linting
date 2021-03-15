@@ -17,13 +17,11 @@ npx svelte-add manuel3108/svelte-add-linting
 After the preset runs,
 * You may need to restart / reload your IDE, in order for the `.editorconfig` to take effect.
 
-* You can `npm run lint`, to lint all your files.
+* You can `npm run lint`, to lint all your files and check the formatting of them.
 
 * You can `npm run format`, to format all your files.
 
-* You can `npm run format-check`, to check the formatting of all your files (helpful for your CI/CD Pipelines).
-
-* You can `npm run check`, to check the formatting and linting of all your files (helpful for your CI/CD Pipelines).
+_**Note: Other scripts where added, but they are only implementation details and are not intendet to be used manually!**_ 
 
 ## 😵 Help! I have a question
 [Create an issue](https://github.com/manuel3108/svelte-add-linting/issues/new) and I'll try to help.
