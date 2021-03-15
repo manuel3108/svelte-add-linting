@@ -9,6 +9,7 @@ Preset.editJson('package.json')
             eslint: '^7.20.0',
             'eslint-config-airbnb-base': '^14.2.1',
             'eslint-config-prettier': '^8.1.0',
+            'eslint-import-resolver-alias': '1.1.2',
             'eslint-plugin-import': '^2.22.1',
             'eslint-plugin-svelte3': '^3.1.1',
             prettier: '^2.2.1',

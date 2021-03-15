@@ -15,5 +15,12 @@
 		"ecmaVersion": 12,
 		"sourceType": "module"
 	},
+	"settings": {
+		"import/resolver": {
+			"alias": {
+				"map": [["\\$lib", "./src/lib"]]
+			}
+		}
+	},
 	"rules": {}
 }
